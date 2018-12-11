@@ -1,0 +1,65 @@
+.view {
+    background: url(../img/logos/5.jpg)no-repeat center center;
+    background-size: cover;
+
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+.fuente{
+  font-family: 'Satisfy', cursive;
+  font-size: 35px;
+}
+.font{
+font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 75px;
+  color: white;
+  text-shadow: 2px 2px white, -2px -2px #616161 ;
+}
+
+  .font1{
+  font-family: 'Contrail One', cursive;
+  font-size: 35px;
+ /* text-shadow:  1px 2px #3949ab      ; */
+ color: #1a237e     ;
+}
+.fontTotal{
+  font-family: 'Julius Sans One', sans-serif;
+
+}
+.fontTitulos{
+  color: #1976d2;
+}
+.fontContactos{
+  font-family: 'Cuprum', sans-serif;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.l{
+  color: #1976d2 ;
+}
+.ll{
+  color: #0d47a1 ;
+}
+.lll{
+  color: #0d47a1 ;
+}
